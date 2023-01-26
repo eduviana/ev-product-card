@@ -7,7 +7,7 @@ Este es un paquete de pruebas de despliegue en NPM
 ## Ejemplo
 
 ```
-import {ProductCard, ProductImage, ProductTitle, ProductButtons } from 'ev-product-card';
+import {ProductCard, ProductImage, ProductTitle, ProductButtons } from 'eduardoviana83-product-card';
 ```
 
 ```
